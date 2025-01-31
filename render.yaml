@@ -5,4 +5,4 @@ services:
     buildCommand: npm install
     startCommand: npm start
     git:
-      branch: master  # Ensure the branch name is 'main' if you're using it instead of 'master'
+      branch: main  # Ensure the branch name is 'main' if you're using it instead of 'master'
