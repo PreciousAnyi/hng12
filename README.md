@@ -35,16 +35,17 @@ There are no request body parameters required for this API.
 
 The response will be in JSON format with the following structure:
 
-## Usage
-```bash
-curl http://<your-url>
-
 ```json
 {
   "email": "your-email@example.com",
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/yourusername/your-repo"
 }
+
+## Usage
+```bash
+curl http://<your-url>
+
 
 ## Backlink
 https://hng.tech/hire/nodejs-developers
