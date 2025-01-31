@@ -14,10 +14,12 @@ This API provides user information, including their email, the current date and 
 2. **Install Dependencies**
    ```bash
    npm install
+   ```
 
 3. **Run the Project Locally**
    ```bash
    npm start
+   ```
 
 ## Endpoint
 
@@ -46,6 +48,7 @@ The response will be in JSON format with the following structure:
 ## Usage
    ```bash
    curl http://<your-url>
+   ```
 
 
 ## Backlink
